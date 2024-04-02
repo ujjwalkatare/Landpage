@@ -1,0 +1,32 @@
+.paragraph {
+   
+    text-align: start;
+    color: black;
+}
+
+.paragraph4 {
+    font-size: 18px;
+    text-align: start;
+    color: rgb(0, 0, 0);
+    font-weight: 540;
+    text-transform: uppercase;
+}
+    
+.menu-bar {
+    font-size: 16px;
+    text-align: start;
+    color: black;
+    font-weight: 540;
+    
+}
+.m2 {
+    font-size:  18px;
+    text-align: start;
+    color: black;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-weight: 540;
+}
+.m3 {
+    text-decoration: none;
+}
